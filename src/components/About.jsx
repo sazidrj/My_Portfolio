@@ -6,9 +6,9 @@ export default function About() {
     image: bannerImage,
     title: "Java Developer & Web Developer",
     desc1:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Repudiandae incidunt earum corrupti nulla alias tempore? Magnam voluptates dolorum sequi dignissimos!",
+      "I am a skilled Java Developer with a solid foundation in Java programming and Spring Boot. My experience includes developing and maintaining high-performance web applications, integrating with databases, and implementing complex backend solutions. I am adept at solving challenging problems and delivering efficient, scalable applications.",
     desc2:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam dolorem veritatis corporis, consectetur nisi reprehenderit beatae ea quo eius temporibus aliquam quasi. Quos odit nobissaepe natus eos laudantium quod.",
+      "As a proficient Web Developer, I specialize in creating responsive and interactive web applications using HTML, CSS, JavaScript, and modern frameworks like React.js. I have a strong focus on both front-end aesthetics and backend functionality, ensuring secure, user-friendly, and robust web solutions.",
     actionButton: {
       title: "Read more...",
       link: "readmore",

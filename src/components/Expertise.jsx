@@ -23,9 +23,8 @@ export default function Expertise() {
                 I love these technologies
               </h1>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Voluptatum, ex neque atque iste similique magni dolorum
-                doloremque veritatis voluptatem officia.
+                I am passionate about leveraging these technologies to create
+                innovative solutions and drive impactful projects.
               </p>
               <button className="px-4 py-2 bg-orange-600 rounded-full shadow-lg text-2xl">
                 Hire Me
